@@ -1,0 +1,31 @@
+﻿// Interface 
+// Repsoitory
+// Service 
+// Postgress PgAdmin 4 error
+// Structure
+// Clean Code 
+
+//////////// Shart \\\\\\\\
+// Claim Types 
+// Claim Identity 
+// Claim 
+// Cookies
+
+// API 
+
+Models
+
+User 
+
+int id
+string Name 
+string Email
+public List<Course>
+
+Course 
+int id 
+string Name
+string Desc
+double price 
+
+Crud++
